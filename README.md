@@ -1,5 +1,5 @@
 # ShapeAI_Project
-Weather Parsing Project
+Weather Parsing Project using API's
 
 Use Open Weather API and Python to find weather of a city, display it and write to text file 'Weather Report.txt'
 
